@@ -1,0 +1,16 @@
+{
+    "name": "junai/exixon",
+    "description": "Exixon Plugin",
+    "type": "project",
+    "authors": [
+        {
+            "name": "junadkhaniw",
+            "email": "junadkhan.iw@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}
